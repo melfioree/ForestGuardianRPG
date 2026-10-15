@@ -22,9 +22,9 @@ CODE/                          # código-fonte em C++
 ├── QuebraCabeca.h / .cpp      # quebra-cabeças
 ├── Armadilha.h / .cpp         # armadilhas e eventos aleatórios
 └── jogo.exe                   # executável (Windows)
-   DOCS/
-   ├── Relatorio_Guardia_Floresta.pdf   # relatório da atividade
-   └── mapamental.txt                   # planejamento inicial 
+DOCS/
+├── Relatorio_Guardia_Floresta.pdf   # relatório da atividade
+└── mapamental.txt                   # planejamento inicial 
 ```
 
 ## O jogo
@@ -43,7 +43,7 @@ final: salvar a floresta ou abandonar a missão e se tornar humana.
 | 4 | Base da Indústria | Contra a Exploração | General | Amuleto da Esperança |
 | 5 | Coração da Floresta | O Destino da Floresta | Rainha das Cinzas | Cristal da Vida |
 
-“O planejamento inicial está em DOCS/mapamental.txt, com mais fases do que a versão final. As respostas
+O planejamento inicial está em DOCS/mapamental.txt, com mais fases do que a versão final. As respostas
 dos quebra-cabeças e o detalhamento das classes estão no relatório em `DOCS/`.
 
 ## Conceitos de POO aplicados
